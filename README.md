@@ -1,1 +1,3 @@
-# Simple Media Player Project
+#  Media Player Project
+
+A simple media player application using ruby 
