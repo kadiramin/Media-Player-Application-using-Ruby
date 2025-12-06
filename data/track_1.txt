@@ -1,0 +1,5 @@
+Title: Bohemian Rhapsody
+Artist: Queen
+Album: A Night at the Opera
+Description: A legendary six-minute suite, noted for its unusual structure.
+Cover_Image: queen_cover.jpg

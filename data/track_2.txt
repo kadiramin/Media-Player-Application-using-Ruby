@@ -1,0 +1,5 @@
+Title: Hotel California
+Artist: Eagles
+Album: Hotel California
+Description: The band's best-known recording, featuring a complex guitar solo.
+Cover_Image: eagles_cover.jpg
